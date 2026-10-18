@@ -1,0 +1,17 @@
+# secrets and local state
+.env
+*.db
+*.db-wal
+*.db-shm
+logs/
+exports/
+# environments and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# model files (none are used by default)
+models/
+*.gguf
+*.bin
+.DS_Store
