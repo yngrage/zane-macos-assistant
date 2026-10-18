@@ -1,5 +1,7 @@
 # ZANE — a personal AI assistant for macOS
 
+Created by [Soumil Siwach](https://github.com/yngrage).
+
 ZANE is an experimental, text-first assistant that can use a small set of validated tools on your Mac. It can open supported apps, report selected system information, and work with files only in folders you approve. It can also keep tasks and notes between sessions.
 
 **ZANE is not an unrestricted computer-control agent.** It has no general shell, screen-clicking, file-delete, email, browser, or wake-word capability. Actions that change files or quit an app ask for approval. Read [the status ledger](docs/STATUS.md) for what has and has not been verified.
